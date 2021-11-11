@@ -1,5 +1,9 @@
 # Clothing e-Commerce
 
+<p>
+    <img src="assets/Clothing e-Commerce App Cover Design.png" alt="Clothing e-Commerce App Cover Design" width="800px" />
+</p>
+
 A massive e-commerce application similar to Shopify using React Ecosystem and Firebase.
 
 ## Technologies
